@@ -1,0 +1,11 @@
+opencv-python
+opencv-contrib-python
+mediapipe
+ultralytics
+torch
+torchvision
+numpy
+matplotlib
+scipy
+pandas
+absl-py

@@ -21,6 +21,7 @@ torch → backend ของ YOLO / deep learning
 torchvision → preprocessing รูปภาพสำหรับ YOLO
 
 numpy → จัดการ array และภาพ
+///
 
 ไลบรารีเสริม (dependency ของ Mediapipe / YOLO)
 

@@ -1,0 +1,33 @@
+python -m pip install --upgrade pip
+python -m pip install opencv-python opencv-contrib-python
+python -m pip install mediapipe
+python -m pip install ultralytics
+python -m pip install torch torchvision
+python -m pip install numpy matplotlib scipy pandas absl-py
+
+///
+ไลบรารีหลัก (ต้องติดตั้ง)
+
+opencv-python → จับภาพจากกล้อง, แสดงผลภาพ
+
+opencv-contrib-python → ฟังก์ชันเสริม OpenCV ที่ Mediapipe ต้องใช้
+
+mediapipe → ตรวจจับโครงร่างร่างกาย (Pose Detection)
+
+ultralytics → YOLOv8 ตรวจจับคนและวัตถุ
+
+torch → backend ของ YOLO / deep learning
+
+torchvision → preprocessing รูปภาพสำหรับ YOLO
+
+numpy → จัดการ array และภาพ
+
+ไลบรารีเสริม (dependency ของ Mediapipe / YOLO)
+
+matplotlib → แสดงกราฟหรือรูปภาพ (debug)
+
+scipy → dependency ของ ultralytics
+
+pandas → dependency ของ ultralytics
+
+absl-py → dependency ของ mediapipe

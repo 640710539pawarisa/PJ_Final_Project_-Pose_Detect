@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "projectจบ",
+			"path": "../../OneDrive/Documents/projectจบ"
+		},
+		{
+			"name": "check_cam",
+			"path": "../check_cam"
+		},
+		{
+			"name": "detect",
+			"path": "../detect"
+		},
+		{
+			"name": "libary_detect",
+			"path": "../libary_detect"
+		},
+		{
+			"name": "ขอบเขตและคำอธิบายโปรเจค",
+			"path": "../ขอบเขตและคำอธิบายโปรเจค"
+		},
+		{
+			"name": "ระบบตรวจจับ_",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
